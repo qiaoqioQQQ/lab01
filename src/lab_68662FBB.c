@@ -3,6 +3,7 @@
 void printscreen()
 {
     // Please write your code here
+    print("####\n")
 }
 
 // DO NOT change the code below
